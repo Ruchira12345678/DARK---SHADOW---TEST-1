@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT</h1>
+    <img alt="Guru" height="300" src="https://i.ibb.co/pn6WnqM/Picsart-23-09-02-18-11-08-323.jpg">
+    <h1 align="center">DS-BOT</h1>
   </a>
 </p>
 <p align="center">
